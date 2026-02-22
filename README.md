@@ -8,7 +8,7 @@ This project was completed as a First-Year BSc Data Science student to build str
 
 ---
 
-##  Dataset Description
+## Dataset Description
 The dataset consists of:
 
 - train.csv – Historical weekly sales data  
